@@ -1,0 +1,9 @@
+﻿  Game.cpp
+Game.cpp(864): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 25 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Blast Breaker.vcxproj -> D:\College\Semester 4\GKA\TA\Continuum Moscovium Arts-Blast Breaker Space\Blast Breaker\Release\Blast Breaker.exe
+  Blast Breaker.vcxproj -> D:\College\Semester 4\GKA\TA\Continuum Moscovium Arts-Blast Breaker Space\Blast Breaker\Release\Blast Breaker.pdb (Full PDB)

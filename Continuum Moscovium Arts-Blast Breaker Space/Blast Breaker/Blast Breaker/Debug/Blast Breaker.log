@@ -1,0 +1,4 @@
+﻿  Game.cpp
+e:\kuliah\sem 4\gka\tugas akhir\lot\blast breaker\blast breaker\blast breaker\game.cpp(826): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Blast Breaker.vcxproj -> E:\Kuliah\Sem 4\GKA\tugas akhir\lot\Blast Breaker\Blast Breaker\Debug\Blast Breaker.exe
+  Blast Breaker.vcxproj -> E:\Kuliah\Sem 4\GKA\tugas akhir\lot\Blast Breaker\Blast Breaker\Debug\Blast Breaker.pdb (Full PDB)
