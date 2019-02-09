@@ -1,12 +1,12 @@
-Continuum Moscovium Arts Studio Present
+# Continuum Moscovium Arts Studio Present
 
 Blast Breaker Space Edition
 
-Dalam rangka meluluskan mata kuliah GKA maka dibuatlah project ini.
+Dalam rangka meluluskan mata kuliah IF421 maka dibuatlah project ini. - Grafka Komputer dan Animasi
 
 Compile di Visual Studio Code.
 
-By:
+# Made By:
 - Kevin
 - I. Yudhistira Indrawan
 - Efraim Y. Wijaya
